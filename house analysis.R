@@ -1,7 +1,5 @@
 # Libraries
 
-
-
 library(ggplot2)
 library(gganimate)
 library(dplyr)
@@ -9,10 +7,10 @@ library(dplyr)
 
 # Load data
 
-house_data <- read.csv2("C:/Users/Daniel/Desktop/Spooon/barrios.csv",sep=",")
+house_data <- read.csv2("YOUR DIR"/barrios.csv",sep=",")
 str(house_data)
 
-# transform
+# Transform the variables to the corresponding format
 
 house_data$Quarter <- as.Date(house_data$Quarter, format = "%d-%m-%y")
 
@@ -20,13 +18,15 @@ house_data$Index <- as.numeric(house_data$Index)
 
 house_data$Area <- as.character(house_data$Area)
 
+#We create a subset to plot and see how the final graph will look
+
 house_data_2001 <- house_data %>% filter(Quarter == "2001-01-01")
 
  # Plot
 
 ggplot(house_data_2001,
        aes(x=Area,y=Index, label= Area, color = Area))+
-  ggtitle("Evoluci髇 del precio de la Vivienda por M2")+
+  ggtitle("Evoluci贸n del precio de la Vivienda por M2")+
   xlab("Distrito") +
   ylab("Precio de la vivienda por M2") +
   geom_point(stat='identity',size=10)+
@@ -43,7 +43,7 @@ ggplot(house_data_2001,
 
 ggplot(house_data,
        aes(x=Area,y=Index, label=Area, color=Area)) + 
-  ggtitle("Evoluci髇 del precio de la Vivienda por M2")+
+  ggtitle("Evoluci贸n del precio de la Vivienda por M2")+
   xlab("Precio de la vivienda por M2") +
   ylab("Distrito") +
   geom_point(stat='identity', size=18) +
@@ -56,7 +56,7 @@ ggplot(house_data,
   geom_text(color="black",size=3)+
   coord_flip() +
   theme(legend.position = "none") +
-  labs(title="Evoluci髇 del precio de la Vivienda por M2",subtitle= 'Trimestre: {frame_time}',x='Distrito',y="Precio M2")+
+  labs(title="Evoluci贸n del precio de la Vivienda por M2",subtitle= 'Trimestre: {frame_time}',x='Distrito',y="Precio M2")+
   transition_time(Quarter) +
   ease_aes("linear")
 
@@ -88,7 +88,7 @@ variation_2018 <- variation %>% filter(Quarter == "2018-01-01")
 
 ggplot(variation_2018,
        aes(x=Area,y=perc_change, label= Area, color = Area))+
-  ggtitle("Variaci髇 en el precio por M2 por distrito (Comparativa 2018 vs. 2007)")+
+  ggtitle("Variaci贸n en el precio por M2 por distrito (Comparativa 2018 vs. 2007)")+
   xlab("Distrito") +
   ylab("Precio de la vivienda por M2") +
   geom_point(stat='identity',size=10)+
@@ -105,7 +105,7 @@ ggplot(variation_2018,
 
 ggplot(variation,
        aes(x=Area,y=perc_change, label=Area, color=Area)) + 
-  ggtitle("Variaci髇 en el precio por M2 por distrito (2018 vs. 2007)")+
+  ggtitle("Variaci贸n en el precio por M2 por distrito (2018 vs. 2007)")+
   xlab("Distrito") +
   ylab("Precio de la vivienda por M2") +
   geom_point(stat='identity', size=18) +
@@ -118,7 +118,7 @@ ggplot(variation,
   geom_text(color="black",size=3)+
   coord_flip() +
   theme(legend.position = "none") +
-  labs(title="Variaci髇 en el precio por M2 por distrito (Comparativa 2018 vs. 2007)",subtitle= 'Trimestre: {frame_time}',x='Distrito',y="Precio M2")+
+  labs(title="Variaci贸n en el precio por M2 por distrito (Comparativa 2018 vs. 2007)",subtitle= 'Trimestre: {frame_time}',x='Distrito',y="Precio M2")+
   transition_time(Quarter) +
   ease_aes("linear")
 
