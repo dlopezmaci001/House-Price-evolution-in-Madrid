@@ -1,0 +1,1487 @@
+Quarter,Index,Area
+01-01-01,1857,Centro
+01-04-01,1988,Centro
+01-07-01,2061,Centro
+01-10-01,2155,Centro
+01-01-02,2292,Centro
+01-04-02,2455,Centro
+01-07-02,2523,Centro
+01-10-02,2790,Centro
+01-01-03,2954,Centro
+01-04-03,2965,Centro
+01-07-03,3129,Centro
+01-10-03,3197,Centro
+01-01-04,3347,Centro
+01-04-04,3437,Centro
+01-07-04,3464,Centro
+01-10-04,3619,Centro
+01-01-05,3694,Centro
+01-04-05,3785,Centro
+01-07-05,3841,Centro
+01-10-05,4011,Centro
+01-01-06,4145,Centro
+01-04-06,4280,Centro
+01-07-06,4262,Centro
+01-10-06,4305,Centro
+01-01-07,4398,Centro
+01-04-07,4454,Centro
+01-07-07,4405,Centro
+01-10-07,4422,Centro
+01-01-08,4387,Centro
+01-04-08,4303,Centro
+01-07-08,4137,Centro
+01-10-08,4092,Centro
+01-01-09,3988,Centro
+01-04-09,3896,Centro
+01-07-09,3897,Centro
+01-10-09,3891,Centro
+01-01-10,3825,Centro
+01-04-10,3740,Centro
+01-07-10,3759,Centro
+01-10-10,3786,Centro
+01-01-11,3728,Centro
+01-04-11,3596,Centro
+01-07-11,3603,Centro
+01-10-11,3575,Centro
+01-01-12,3484,Centro
+01-04-12,3390,Centro
+01-07-12,3312,Centro
+01-10-12,3202,Centro
+01-01-13,3155,Centro
+01-04-13,3081,Centro
+01-07-13,3434,Centro
+01-10-13,3354,Centro
+01-01-14,3412,Centro
+01-04-14,3337,Centro
+01-07-14,3276,Centro
+01-10-14,3285,Centro
+01-01-15,3346,Centro
+01-04-15,3424,Centro
+01-07-15,3538,Centro
+01-10-15,3568,Centro
+01-01-16,3599,Centro
+01-04-16,3638,Centro
+01-07-16,3718,Centro
+01-10-16,3779,Centro
+01-01-17,3972,Centro
+01-04-17,4307,Centro
+01-07-17,4456,Centro
+01-10-17,4599,Centro
+01-01-18,4832,Centro
+01-04-18,4987,Centro
+01-07-18,4915,Centro
+01-01-01,2152,Retiro
+01-04-01,2340,Retiro
+01-07-01,2426,Retiro
+01-10-01,2504,Retiro
+01-01-02,2558,Retiro
+01-04-02,2711,Retiro
+01-07-02,2847,Retiro
+01-10-02,3046,Retiro
+01-01-03,3132,Retiro
+01-04-03,3259,Retiro
+01-07-03,3395,Retiro
+01-10-03,3598,Retiro
+01-01-04,3741,Retiro
+01-04-04,3629,Retiro
+01-07-04,3722,Retiro
+01-10-04,3824,Retiro
+01-01-05,3856,Retiro
+01-04-05,3924,Retiro
+01-07-05,4012,Retiro
+01-10-05,4061,Retiro
+01-01-06,4137,Retiro
+01-04-06,4240,Retiro
+01-07-06,4321,Retiro
+01-10-06,4397,Retiro
+01-01-07,4421,Retiro
+01-04-07,4418,Retiro
+01-07-07,4418,Retiro
+01-10-07,4402,Retiro
+01-01-08,4427,Retiro
+01-04-08,4372,Retiro
+01-07-08,4313,Retiro
+01-10-08,4212,Retiro
+01-01-09,4192,Retiro
+01-04-09,4161,Retiro
+01-07-09,4187,Retiro
+01-10-09,4142,Retiro
+01-01-10,4189,Retiro
+01-04-10,4235,Retiro
+01-07-10,4321,Retiro
+01-10-10,4127,Retiro
+01-01-11,4169,Retiro
+01-04-11,4120,Retiro
+01-07-11,4097,Retiro
+01-10-11,3957,Retiro
+01-01-12,3770,Retiro
+01-04-12,3661,Retiro
+01-07-12,3611,Retiro
+01-10-12,3460,Retiro
+01-01-13,3405,Retiro
+01-04-13,3401,Retiro
+01-07-13,3539,Retiro
+01-10-13,3322,Retiro
+01-01-14,3374,Retiro
+01-04-14,3389,Retiro
+01-07-14,3365,Retiro
+01-10-14,3274,Retiro
+01-01-15,3420,Retiro
+01-04-15,3539,Retiro
+01-07-15,3458,Retiro
+01-10-15,3510,Retiro
+01-01-16,3489,Retiro
+01-04-16,3648,Retiro
+01-07-16,3689,Retiro
+01-10-16,3734,Retiro
+01-01-17,3931,Retiro
+01-04-17,4080,Retiro
+01-07-17,4138,Retiro
+01-10-17,4353,Retiro
+01-01-18,4764,Retiro
+01-04-18,4876,Retiro
+01-07-18,4834,Retiro
+01-01-01,2438,Salamanca
+01-04-01,2533,Salamanca
+01-07-01,2615,Salamanca
+01-10-01,2826,Salamanca
+01-01-02,2903,Salamanca
+01-04-02,3113,Salamanca
+01-07-02,3273,Salamanca
+01-10-02,3468,Salamanca
+01-01-03,3721,Salamanca
+01-04-03,3734,Salamanca
+01-07-03,3915,Salamanca
+01-10-03,3960,Salamanca
+01-01-04,4141,Salamanca
+01-04-04,4152,Salamanca
+01-07-04,4226,Salamanca
+01-10-04,4311,Salamanca
+01-01-05,4460,Salamanca
+01-04-05,4468,Salamanca
+01-07-05,4544,Salamanca
+01-10-05,4552,Salamanca
+01-01-06,4660,Salamanca
+01-04-06,4723,Salamanca
+01-07-06,4764,Salamanca
+01-10-06,4812,Salamanca
+01-01-07,4995,Salamanca
+01-04-07,5001,Salamanca
+01-07-07,5082,Salamanca
+01-10-07,5015,Salamanca
+01-01-08,5054,Salamanca
+01-04-08,5041,Salamanca
+01-07-08,5167,Salamanca
+01-10-08,5202,Salamanca
+01-01-09,5055,Salamanca
+01-04-09,5023,Salamanca
+01-07-09,4918,Salamanca
+01-10-09,4867,Salamanca
+01-01-10,4866,Salamanca
+01-04-10,4818,Salamanca
+01-07-10,4789,Salamanca
+01-10-10,4737,Salamanca
+01-01-11,4564,Salamanca
+01-04-11,4563,Salamanca
+01-07-11,4616,Salamanca
+01-10-11,4504,Salamanca
+01-01-12,4388,Salamanca
+01-04-12,4267,Salamanca
+01-07-12,4297,Salamanca
+01-10-12,4173,Salamanca
+01-01-13,4040,Salamanca
+01-04-13,4005,Salamanca
+01-07-13,4148,Salamanca
+01-10-13,4116,Salamanca
+01-01-14,4247,Salamanca
+01-04-14,4130,Salamanca
+01-07-14,4134,Salamanca
+01-10-14,4138,Salamanca
+01-01-15,4219,Salamanca
+01-04-15,4292,Salamanca
+01-07-15,4385,Salamanca
+01-10-15,4370,Salamanca
+01-01-16,4415,Salamanca
+01-04-16,4531,Salamanca
+01-07-16,4613,Salamanca
+01-10-16,4590,Salamanca
+01-01-17,4782,Salamanca
+01-04-17,5001,Salamanca
+01-07-17,5252,Salamanca
+01-10-17,5479,Salamanca
+01-01-18,5675,Salamanca
+01-04-18,5930,Salamanca
+01-07-18,5987,Salamanca
+01-01-01,1662,Barajas
+01-04-01,1680,Barajas
+01-07-01,1842,Barajas
+01-10-01,1965,Barajas
+01-01-02,2083,Barajas
+01-04-02,2152,Barajas
+01-07-02,2543,Barajas
+01-10-02,2593,Barajas
+01-01-03,2606,Barajas
+01-04-03,2743,Barajas
+01-07-03,2935,Barajas
+01-10-03,2953,Barajas
+01-01-04,2928,Barajas
+01-04-04,2976,Barajas
+01-07-04,3101,Barajas
+01-10-04,3219,Barajas
+01-01-05,3292,Barajas
+01-04-05,3453,Barajas
+01-07-05,3366,Barajas
+01-10-05,3433,Barajas
+01-01-06,3445,Barajas
+01-04-06,3515,Barajas
+01-07-06,3554,Barajas
+01-10-06,3707,Barajas
+01-01-07,3688,Barajas
+01-04-07,3730,Barajas
+01-07-07,3651,Barajas
+01-10-07,3638,Barajas
+01-01-08,3637,Barajas
+01-04-08,3602,Barajas
+01-07-08,3518,Barajas
+01-10-08,3398,Barajas
+01-01-09,3276,Barajas
+01-04-09,3254,Barajas
+01-07-09,3305,Barajas
+01-10-09,3273,Barajas
+01-01-10,3291,Barajas
+01-04-10,3187,Barajas
+01-07-10,3241,Barajas
+01-10-10,3212,Barajas
+01-01-11,3179,Barajas
+01-04-11,3140,Barajas
+01-07-11,3035,Barajas
+01-10-11,3024,Barajas
+01-01-12,3023,Barajas
+01-04-12,2928,Barajas
+01-07-12,2869,Barajas
+01-10-12,2777,Barajas
+01-01-13,2775,Barajas
+01-04-13,2625,Barajas
+01-07-13,2727,Barajas
+01-10-13,2764,Barajas
+01-01-14,2828,Barajas
+01-04-14,2716,Barajas
+01-07-14,2611,Barajas
+01-10-14,2583,Barajas
+01-01-15,2605,Barajas
+01-04-15,2638,Barajas
+01-07-15,2603,Barajas
+01-10-15,2602,Barajas
+01-01-16,2585,Barajas
+01-04-16,2571,Barajas
+01-07-16,2604,Barajas
+01-10-16,2672,Barajas
+01-01-17,2642,Barajas
+01-04-17,2700,Barajas
+01-07-17,2867,Barajas
+01-10-17,2993,Barajas
+01-01-18,3065,Barajas
+01-04-18,3225,Barajas
+01-07-18,3225,Barajas
+01-01-01,1506,Vicálvaro
+01-04-01,1524,Vicálvaro
+01-07-01,1689,Vicálvaro
+01-10-01,1665,Vicálvaro
+01-01-02,1935,Vicálvaro
+01-04-02,2012,Vicálvaro
+01-07-02,2063,Vicálvaro
+01-10-02,2040,Vicálvaro
+01-01-03,2190,Vicálvaro
+01-04-03,2267,Vicálvaro
+01-07-03,2556,Vicálvaro
+01-10-03,2812,Vicálvaro
+01-01-04,2747,Vicálvaro
+01-04-04,2721,Vicálvaro
+01-07-04,2742,Vicálvaro
+01-10-04,2904,Vicálvaro
+01-01-05,2898,Vicálvaro
+01-04-05,2954,Vicálvaro
+01-07-05,3025,Vicálvaro
+01-10-05,3145,Vicálvaro
+01-01-06,3201,Vicálvaro
+01-04-06,3294,Vicálvaro
+01-07-06,3158,Vicálvaro
+01-10-06,3169,Vicálvaro
+01-01-07,3091,Vicálvaro
+01-04-07,3124,Vicálvaro
+01-07-07,3122,Vicálvaro
+01-10-07,3158,Vicálvaro
+01-01-08,3120,Vicálvaro
+01-04-08,2966,Vicálvaro
+01-07-08,2820,Vicálvaro
+01-10-08,2769,Vicálvaro
+01-01-09,2692,Vicálvaro
+01-04-09,2587,Vicálvaro
+01-07-09,2552,Vicálvaro
+01-10-09,2571,Vicálvaro
+01-01-10,2613,Vicálvaro
+01-04-10,2533,Vicálvaro
+01-07-10,2496,Vicálvaro
+01-10-10,2464,Vicálvaro
+01-01-11,2379,Vicálvaro
+01-04-11,2334,Vicálvaro
+01-07-11,2317,Vicálvaro
+01-10-11,2238,Vicálvaro
+01-01-12,2167,Vicálvaro
+01-04-12,2041,Vicálvaro
+01-07-12,1864,Vicálvaro
+01-10-12,1794,Vicálvaro
+01-01-13,1802,Vicálvaro
+01-04-13,1681,Vicálvaro
+01-07-13,1711,Vicálvaro
+01-10-13,1825,Vicálvaro
+01-01-14,1836,Vicálvaro
+01-04-14,1691,Vicálvaro
+01-07-14,1693,Vicálvaro
+01-10-14,1692,Vicálvaro
+01-01-15,1753,Vicálvaro
+01-04-15,1761,Vicálvaro
+01-07-15,1774,Vicálvaro
+01-10-15,1667,Vicálvaro
+01-01-16,1707,Vicálvaro
+01-04-16,1741,Vicálvaro
+01-07-16,1718,Vicálvaro
+01-10-16,1760,Vicálvaro
+01-01-17,1776,Vicálvaro
+01-04-17,1798,Vicálvaro
+01-07-17,1834,Vicálvaro
+01-10-17,1938,Vicálvaro
+01-01-18,2071,Vicálvaro
+01-04-18,2219,Vicálvaro
+01-07-18,2278,Vicálvaro
+01-01-01,1920,Arganzuela
+01-04-01,1990,Arganzuela
+01-07-01,1975,Arganzuela
+01-10-01,2027,Arganzuela
+01-01-02,2151,Arganzuela
+01-01-03,2744,Arganzuela
+01-04-03,2845,Arganzuela
+01-07-03,2999,Arganzuela
+01-10-03,3144,Arganzuela
+01-01-04,3236,Arganzuela
+01-04-04,3277,Arganzuela
+01-07-04,3285,Arganzuela
+01-10-04,3401,Arganzuela
+01-01-05,3499,Arganzuela
+01-04-05,3504,Arganzuela
+01-07-05,3595,Arganzuela
+01-10-05,3674,Arganzuela
+01-01-06,3781,Arganzuela
+01-04-06,3828,Arganzuela
+01-07-06,3904,Arganzuela
+01-10-06,3980,Arganzuela
+01-01-07,3971,Arganzuela
+01-04-07,3927,Arganzuela
+01-07-07,3914,Arganzuela
+01-10-07,3894,Arganzuela
+01-01-08,3855,Arganzuela
+01-04-08,3721,Arganzuela
+01-07-08,3624,Arganzuela
+01-10-08,3551,Arganzuela
+01-01-09,3436,Arganzuela
+01-04-09,3408,Arganzuela
+01-07-09,3393,Arganzuela
+01-10-09,3357,Arganzuela
+01-01-10,3345,Arganzuela
+01-04-10,3317,Arganzuela
+01-07-10,3350,Arganzuela
+01-10-10,3276,Arganzuela
+01-01-11,3250,Arganzuela
+01-04-11,3161,Arganzuela
+01-07-11,3123,Arganzuela
+01-10-11,3063,Arganzuela
+01-01-12,3023,Arganzuela
+01-04-12,2898,Arganzuela
+01-07-12,2790,Arganzuela
+01-10-12,2690,Arganzuela
+01-01-13,2680,Arganzuela
+01-04-13,2584,Arganzuela
+01-07-13,2685,Arganzuela
+01-10-13,2797,Arganzuela
+01-01-14,2828,Arganzuela
+01-04-14,2685,Arganzuela
+01-07-14,2638,Arganzuela
+01-10-14,2653,Arganzuela
+01-01-15,2671,Arganzuela
+01-04-15,2714,Arganzuela
+01-07-15,2787,Arganzuela
+01-10-15,2746,Arganzuela
+01-01-16,2835,Arganzuela
+01-04-16,2918,Arganzuela
+01-07-16,2925,Arganzuela
+01-10-16,3013,Arganzuela
+01-01-17,3137,Arganzuela
+01-04-17,3204,Arganzuela
+01-07-17,3293,Arganzuela
+01-10-17,3529,Arganzuela
+01-01-18,3709,Arganzuela
+01-04-18,3950,Arganzuela
+01-07-18,3950,Arganzuela
+01-01-01,1359,Carabanchel
+01-04-01,1413,Carabanchel
+01-07-01,1481,Carabanchel
+01-10-01,1573,Carabanchel
+01-01-02,1651,Carabanchel
+01-04-02,1799,Carabanchel
+01-07-02,1838,Carabanchel
+01-10-02,2069,Carabanchel
+01-01-03,2163,Carabanchel
+01-04-03,2241,Carabanchel
+01-07-03,2354,Carabanchel
+01-10-03,2496,Carabanchel
+01-01-04,2570,Carabanchel
+01-04-04,2621,Carabanchel
+01-07-04,2624,Carabanchel
+01-10-04,2643,Carabanchel
+01-01-05,2736,Carabanchel
+01-04-05,2726,Carabanchel
+01-07-05,2778,Carabanchel
+01-10-05,2855,Carabanchel
+01-01-06,2924,Carabanchel
+01-04-06,3114,Carabanchel
+01-07-06,3161,Carabanchel
+01-10-06,3210,Carabanchel
+01-01-07,3228,Carabanchel
+01-04-07,3183,Carabanchel
+01-07-07,3148,Carabanchel
+01-10-07,3103,Carabanchel
+01-01-08,3067,Carabanchel
+01-04-08,2966,Carabanchel
+01-07-08,2844,Carabanchel
+01-10-08,2791,Carabanchel
+01-01-09,2680,Carabanchel
+01-04-09,2622,Carabanchel
+01-07-09,2624,Carabanchel
+01-10-09,2590,Carabanchel
+01-01-10,2557,Carabanchel
+01-04-10,2481,Carabanchel
+01-07-10,2440,Carabanchel
+01-10-10,2385,Carabanchel
+01-01-11,2330,Carabanchel
+01-04-11,2248,Carabanchel
+01-07-11,2221,Carabanchel
+01-10-11,2127,Carabanchel
+01-01-12,2068,Carabanchel
+01-04-12,1981,Carabanchel
+01-07-12,1875,Carabanchel
+01-10-12,1821,Carabanchel
+01-01-13,1799,Carabanchel
+01-04-13,1740,Carabanchel
+01-07-13,1797,Carabanchel
+01-10-13,1857,Carabanchel
+01-01-14,1798,Carabanchel
+01-04-14,1698,Carabanchel
+01-07-14,1640,Carabanchel
+01-10-14,1602,Carabanchel
+01-01-15,1651,Carabanchel
+01-04-15,1637,Carabanchel
+01-07-15,1672,Carabanchel
+01-10-15,1622,Carabanchel
+01-01-16,1631,Carabanchel
+01-04-16,1623,Carabanchel
+01-07-16,1654,Carabanchel
+01-10-16,1702,Carabanchel
+01-01-17,1714,Carabanchel
+01-04-17,1759,Carabanchel
+01-07-17,1824,Carabanchel
+01-10-17,1874,Carabanchel
+01-01-18,1957,Carabanchel
+01-04-18,2059,Carabanchel
+01-07-18,2054,Carabanchel
+01-01-01,2524,Chamartín
+01-04-01,2661,Chamartín
+01-07-01,2857,Chamartín
+01-10-01,3006,Chamartín
+01-01-02,2836,Chamartín
+01-04-02,3095,Chamartín
+01-07-02,3161,Chamartín
+01-10-02,3529,Chamartín
+01-01-03,3579,Chamartín
+01-04-03,3677,Chamartín
+01-07-03,3850,Chamartín
+01-10-03,4041,Chamartín
+01-01-04,4079,Chamartín
+01-04-04,4180,Chamartín
+01-07-04,4140,Chamartín
+01-10-04,4232,Chamartín
+01-01-05,4241,Chamartín
+01-04-05,4366,Chamartín
+01-07-05,4424,Chamartín
+01-10-05,4526,Chamartín
+01-01-06,4609,Chamartín
+01-04-06,4701,Chamartín
+01-07-06,4669,Chamartín
+01-10-06,4798,Chamartín
+01-01-07,4861,Chamartín
+01-04-07,4885,Chamartín
+01-07-07,4913,Chamartín
+01-10-07,4931,Chamartín
+01-01-08,4970,Chamartín
+01-04-08,4939,Chamartín
+01-07-08,5029,Chamartín
+01-10-08,4979,Chamartín
+01-01-09,4822,Chamartín
+01-04-09,4760,Chamartín
+01-07-09,4790,Chamartín
+01-10-09,4784,Chamartín
+01-01-10,4744,Chamartín
+01-04-10,4788,Chamartín
+01-07-10,4694,Chamartín
+01-10-10,4557,Chamartín
+01-01-11,4498,Chamartín
+01-04-11,4493,Chamartín
+01-07-11,4423,Chamartín
+01-10-11,4314,Chamartín
+01-01-12,4216,Chamartín
+01-04-12,4128,Chamartín
+01-07-12,4028,Chamartín
+01-10-12,3965,Chamartín
+01-01-13,3873,Chamartín
+01-04-13,3820,Chamartín
+01-07-13,3758,Chamartín
+01-10-13,3747,Chamartín
+01-01-14,3735,Chamartín
+01-04-14,3674,Chamartín
+01-07-14,3652,Chamartín
+01-10-14,3717,Chamartín
+01-01-15,3730,Chamartín
+01-04-15,3740,Chamartín
+01-07-15,3766,Chamartín
+01-10-15,3790,Chamartín
+01-01-16,3892,Chamartín
+01-04-16,3915,Chamartín
+01-07-16,3989,Chamartín
+01-10-16,4072,Chamartín
+01-01-17,4207,Chamartín
+01-04-17,4338,Chamartín
+01-07-17,4384,Chamartín
+01-10-17,4564,Chamartín
+01-01-18,4905,Chamartín
+01-04-18,5007,Chamartín
+01-07-18,5143,Chamartín
+01-01-01,2265,Chamberí
+01-04-01,2455,Chamberí
+01-07-01,2447,Chamberí
+01-10-01,2695,Chamberí
+01-01-02,2780,Chamberí
+01-04-02,2902,Chamberí
+01-07-02,3180,Chamberí
+01-10-02,3353,Chamberí
+01-01-03,3408,Chamberí
+01-04-03,3614,Chamberí
+01-07-03,3729,Chamberí
+01-10-03,3963,Chamberí
+01-01-04,4016,Chamberí
+01-04-04,4066,Chamberí
+01-07-04,4217,Chamberí
+01-10-04,4230,Chamberí
+01-01-05,4262,Chamberí
+01-04-05,4275,Chamberí
+01-07-05,4436,Chamberí
+01-10-05,4517,Chamberí
+01-01-06,4658,Chamberí
+01-04-06,4739,Chamberí
+01-07-06,4752,Chamberí
+01-10-06,4829,Chamberí
+01-01-07,4927,Chamberí
+01-04-07,4942,Chamberí
+01-07-07,4909,Chamberí
+01-10-07,4982,Chamberí
+01-01-08,4985,Chamberí
+01-04-08,4886,Chamberí
+01-07-08,4790,Chamberí
+01-10-08,4693,Chamberí
+01-01-09,4668,Chamberí
+01-04-09,4681,Chamberí
+01-07-09,4737,Chamberí
+01-10-09,4686,Chamberí
+01-01-10,4713,Chamberí
+01-04-10,4686,Chamberí
+01-07-10,4604,Chamberí
+01-10-10,4479,Chamberí
+01-01-11,4445,Chamberí
+01-04-11,4356,Chamberí
+01-07-11,4309,Chamberí
+01-10-11,4227,Chamberí
+01-01-12,4189,Chamberí
+01-04-12,4055,Chamberí
+01-07-12,3930,Chamberí
+01-10-12,3772,Chamberí
+01-01-13,3660,Chamberí
+01-04-13,3625,Chamberí
+01-07-13,3682,Chamberí
+01-10-13,3567,Chamberí
+01-01-14,3683,Chamberí
+01-04-14,3644,Chamberí
+01-07-14,3629,Chamberí
+01-10-14,3630,Chamberí
+01-01-15,3689,Chamberí
+01-04-15,3765,Chamberí
+01-07-15,3781,Chamberí
+01-10-15,3760,Chamberí
+01-01-16,3946,Chamberí
+01-04-16,3960,Chamberí
+01-07-16,4017,Chamberí
+01-10-16,4060,Chamberí
+01-01-17,4291,Chamberí
+01-04-17,4508,Chamberí
+01-07-17,4642,Chamberí
+01-10-17,4811,Chamberí
+01-01-18,5000,Chamberí
+01-04-18,5202,Chamberí
+01-07-18,5243,Chamberí
+01-01-01,2007,Ciudad Lineal
+01-04-01,2073,Ciudad Lineal
+01-07-01,2255,Ciudad Lineal
+01-10-01,2277,Ciudad Lineal
+01-01-02,2372,Ciudad Lineal
+01-04-02,2496,Ciudad Lineal
+01-07-02,2674,Ciudad Lineal
+01-10-02,2819,Ciudad Lineal
+01-01-03,2965,Ciudad Lineal
+01-04-03,3079,Ciudad Lineal
+01-07-03,3079,Ciudad Lineal
+01-10-03,3312,Ciudad Lineal
+01-01-04,3231,Ciudad Lineal
+01-04-04,3300,Ciudad Lineal
+01-07-04,3352,Ciudad Lineal
+01-10-04,3349,Ciudad Lineal
+01-01-05,3424,Ciudad Lineal
+01-04-05,3499,Ciudad Lineal
+01-07-05,3581,Ciudad Lineal
+01-10-05,3705,Ciudad Lineal
+01-01-06,3695,Ciudad Lineal
+01-04-06,3789,Ciudad Lineal
+01-07-06,3805,Ciudad Lineal
+01-10-06,3818,Ciudad Lineal
+01-01-07,3788,Ciudad Lineal
+01-04-07,3762,Ciudad Lineal
+01-07-07,3769,Ciudad Lineal
+01-10-07,3725,Ciudad Lineal
+01-01-08,3764,Ciudad Lineal
+01-04-08,3702,Ciudad Lineal
+01-07-08,3679,Ciudad Lineal
+01-10-08,3567,Ciudad Lineal
+01-01-09,3540,Ciudad Lineal
+01-04-09,3480,Ciudad Lineal
+01-07-09,3512,Ciudad Lineal
+01-10-09,3436,Ciudad Lineal
+01-01-10,3363,Ciudad Lineal
+01-04-10,3336,Ciudad Lineal
+01-07-10,3311,Ciudad Lineal
+01-10-10,3249,Ciudad Lineal
+01-01-11,3210,Ciudad Lineal
+01-04-11,3144,Ciudad Lineal
+01-07-11,3166,Ciudad Lineal
+01-10-11,3078,Ciudad Lineal
+01-01-12,3009,Ciudad Lineal
+01-04-12,2928,Ciudad Lineal
+01-07-12,2820,Ciudad Lineal
+01-10-12,2729,Ciudad Lineal
+01-01-13,2660,Ciudad Lineal
+01-04-13,2593,Ciudad Lineal
+01-07-13,2525,Ciudad Lineal
+01-10-13,2631,Ciudad Lineal
+01-01-14,2666,Ciudad Lineal
+01-04-14,2582,Ciudad Lineal
+01-07-14,2514,Ciudad Lineal
+01-10-14,2464,Ciudad Lineal
+01-01-15,2513,Ciudad Lineal
+01-04-15,2478,Ciudad Lineal
+01-07-15,2486,Ciudad Lineal
+01-10-15,2455,Ciudad Lineal
+01-01-16,2489,Ciudad Lineal
+01-04-16,2480,Ciudad Lineal
+01-07-16,2487,Ciudad Lineal
+01-10-16,2523,Ciudad Lineal
+01-01-17,2558,Ciudad Lineal
+01-04-17,2616,Ciudad Lineal
+01-07-17,2692,Ciudad Lineal
+01-10-17,2724,Ciudad Lineal
+01-01-18,2824,Ciudad Lineal
+01-04-18,2983,Ciudad Lineal
+01-07-18,3057,Ciudad Lineal
+01-01-01,2060,Fuencarral
+01-04-01,2057,Fuencarral
+01-07-01,2047,Fuencarral
+01-10-01,2174,Fuencarral
+01-01-02,2432,Fuencarral
+01-04-02,2562,Fuencarral
+01-07-02,2675,Fuencarral
+01-10-02,2807,Fuencarral
+01-01-03,2951,Fuencarral
+01-04-03,2959,Fuencarral
+01-07-03,3064,Fuencarral
+01-10-03,3283,Fuencarral
+01-01-04,3296,Fuencarral
+01-04-04,3358,Fuencarral
+01-07-04,3397,Fuencarral
+01-10-04,3428,Fuencarral
+01-01-05,3470,Fuencarral
+01-04-05,3503,Fuencarral
+01-07-05,3472,Fuencarral
+01-10-05,3593,Fuencarral
+01-01-06,3743,Fuencarral
+01-04-06,3830,Fuencarral
+01-07-06,3831,Fuencarral
+01-10-06,3868,Fuencarral
+01-01-07,3921,Fuencarral
+01-04-07,3917,Fuencarral
+01-07-07,3892,Fuencarral
+01-10-07,3833,Fuencarral
+01-01-08,3839,Fuencarral
+01-04-08,3720,Fuencarral
+01-07-08,3666,Fuencarral
+01-10-08,3612,Fuencarral
+01-01-09,3590,Fuencarral
+01-04-09,3557,Fuencarral
+01-07-09,3515,Fuencarral
+01-10-09,3496,Fuencarral
+01-01-10,3453,Fuencarral
+01-04-10,3426,Fuencarral
+01-07-10,3438,Fuencarral
+01-10-10,3456,Fuencarral
+01-01-11,3401,Fuencarral
+01-04-11,3317,Fuencarral
+01-07-11,3265,Fuencarral
+01-10-11,3211,Fuencarral
+01-01-12,3121,Fuencarral
+01-04-12,3016,Fuencarral
+01-07-12,2948,Fuencarral
+01-10-12,2835,Fuencarral
+01-01-13,2788,Fuencarral
+01-04-13,2717,Fuencarral
+01-07-13,2885,Fuencarral
+01-10-13,2805,Fuencarral
+01-01-14,2821,Fuencarral
+01-04-14,2678,Fuencarral
+01-07-14,2656,Fuencarral
+01-10-14,2656,Fuencarral
+01-01-15,2680,Fuencarral
+01-04-15,2719,Fuencarral
+01-07-15,2714,Fuencarral
+01-10-15,2734,Fuencarral
+01-01-16,2758,Fuencarral
+01-04-16,2740,Fuencarral
+01-07-16,2768,Fuencarral
+01-10-16,2824,Fuencarral
+01-01-17,2934,Fuencarral
+01-04-17,2996,Fuencarral
+01-07-17,3067,Fuencarral
+01-10-17,3174,Fuencarral
+01-01-18,3184,Fuencarral
+01-04-18,3318,Fuencarral
+01-07-18,3386,Fuencarral
+01-01-01,2098,Hortaleza
+01-04-01,2149,Hortaleza
+01-07-01,2104,Hortaleza
+01-10-01,2193,Hortaleza
+01-01-02,2180,Hortaleza
+01-04-02,2445,Hortaleza
+01-07-02,2422,Hortaleza
+01-10-02,2758,Hortaleza
+01-01-03,2746,Hortaleza
+01-04-03,2863,Hortaleza
+01-07-03,2936,Hortaleza
+01-10-03,3046,Hortaleza
+01-01-04,3119,Hortaleza
+01-04-04,3210,Hortaleza
+01-07-04,3225,Hortaleza
+01-10-04,3343,Hortaleza
+01-01-05,3352,Hortaleza
+01-04-05,3395,Hortaleza
+01-07-05,3476,Hortaleza
+01-10-05,3567,Hortaleza
+01-01-06,3659,Hortaleza
+01-04-06,3673,Hortaleza
+01-07-06,3761,Hortaleza
+01-10-06,3820,Hortaleza
+01-01-07,3840,Hortaleza
+01-04-07,3871,Hortaleza
+01-07-07,3878,Hortaleza
+01-10-07,3910,Hortaleza
+01-01-08,3950,Hortaleza
+01-04-08,3853,Hortaleza
+01-07-08,3868,Hortaleza
+01-10-08,3889,Hortaleza
+01-01-09,3836,Hortaleza
+01-04-09,3823,Hortaleza
+01-07-09,3782,Hortaleza
+01-10-09,3787,Hortaleza
+01-01-10,3729,Hortaleza
+01-04-10,3712,Hortaleza
+01-07-10,3705,Hortaleza
+01-10-10,3573,Hortaleza
+01-01-11,3478,Hortaleza
+01-04-11,3385,Hortaleza
+01-07-11,3378,Hortaleza
+01-10-11,3346,Hortaleza
+01-01-12,3222,Hortaleza
+01-04-12,3116,Hortaleza
+01-07-12,3034,Hortaleza
+01-10-12,2951,Hortaleza
+01-01-13,2957,Hortaleza
+01-04-13,2965,Hortaleza
+01-07-13,3021,Hortaleza
+01-10-13,3017,Hortaleza
+01-01-14,2956,Hortaleza
+01-04-14,2782,Hortaleza
+01-07-14,2779,Hortaleza
+01-10-14,2765,Hortaleza
+01-01-15,2740,Hortaleza
+01-04-15,2791,Hortaleza
+01-07-15,2823,Hortaleza
+01-10-15,2818,Hortaleza
+01-01-16,2848,Hortaleza
+01-04-16,2852,Hortaleza
+01-07-16,2799,Hortaleza
+01-10-16,2856,Hortaleza
+01-01-17,2861,Hortaleza
+01-04-17,3066,Hortaleza
+01-07-17,3051,Hortaleza
+01-10-17,3203,Hortaleza
+01-01-18,3416,Hortaleza
+01-04-18,3403,Hortaleza
+01-07-18,3600,Hortaleza
+01-01-01,1474,Latina
+01-04-01,1528,Latina
+01-07-01,1573,Latina
+01-10-01,1645,Latina
+01-01-02,1757,Latina
+01-04-02,1863,Latina
+01-07-02,2028,Latina
+01-10-02,2169,Latina
+01-01-03,2262,Latina
+01-04-03,2366,Latina
+01-07-03,2445,Latina
+01-10-03,2500,Latina
+01-01-04,2430,Latina
+01-04-04,2532,Latina
+01-07-04,2654,Latina
+01-10-04,2777,Latina
+01-01-05,2825,Latina
+01-04-05,2876,Latina
+01-07-05,2968,Latina
+01-10-05,2990,Latina
+01-01-06,3096,Latina
+01-04-06,3167,Latina
+01-07-06,3227,Latina
+01-10-06,3223,Latina
+01-01-07,3239,Latina
+01-04-07,3214,Latina
+01-07-07,3162,Latina
+01-10-07,3106,Latina
+01-01-08,3071,Latina
+01-04-08,2971,Latina
+01-07-08,2857,Latina
+01-10-08,2777,Latina
+01-01-09,2659,Latina
+01-04-09,2615,Latina
+01-07-09,2577,Latina
+01-10-09,2517,Latina
+01-01-10,2488,Latina
+01-04-10,2458,Latina
+01-07-10,2453,Latina
+01-10-10,2404,Latina
+01-01-11,2317,Latina
+01-04-11,2251,Latina
+01-07-11,2223,Latina
+01-10-11,2134,Latina
+01-01-12,2050,Latina
+01-04-12,2004,Latina
+01-07-12,1909,Latina
+01-10-12,1821,Latina
+01-01-13,1803,Latina
+01-04-13,1764,Latina
+01-07-13,1926,Latina
+01-10-13,1879,Latina
+01-01-14,1857,Latina
+01-04-14,1723,Latina
+01-07-14,1677,Latina
+01-10-14,1590,Latina
+01-01-15,1628,Latina
+01-04-15,1642,Latina
+01-07-15,1694,Latina
+01-10-15,1653,Latina
+01-01-16,1698,Latina
+01-04-16,1745,Latina
+01-07-16,1761,Latina
+01-10-16,1784,Latina
+01-01-17,1806,Latina
+01-04-17,1845,Latina
+01-07-17,1879,Latina
+01-10-17,1977,Latina
+01-01-18,2096,Latina
+01-04-18,2146,Latina
+01-07-18,2241,Latina
+01-01-01,2019,Moncloa
+01-04-01,2127,Moncloa
+01-07-01,2295,Moncloa
+01-10-01,2251,Moncloa
+01-01-02,2644,Moncloa
+01-04-02,2679,Moncloa
+01-07-02,2621,Moncloa
+01-10-02,2832,Moncloa
+01-01-03,2977,Moncloa
+01-04-03,3151,Moncloa
+01-07-03,3236,Moncloa
+01-10-03,3362,Moncloa
+01-01-04,3630,Moncloa
+01-04-04,3574,Moncloa
+01-07-04,3521,Moncloa
+01-10-04,3645,Moncloa
+01-01-05,3770,Moncloa
+01-04-05,3801,Moncloa
+01-07-05,3854,Moncloa
+01-10-05,3925,Moncloa
+01-01-06,4018,Moncloa
+01-04-06,4079,Moncloa
+01-07-06,4259,Moncloa
+01-10-06,4275,Moncloa
+01-01-07,4308,Moncloa
+01-04-07,4386,Moncloa
+01-07-07,4430,Moncloa
+01-10-07,4362,Moncloa
+01-01-08,4396,Moncloa
+01-04-08,4314,Moncloa
+01-07-08,4238,Moncloa
+01-10-08,4135,Moncloa
+01-01-09,4144,Moncloa
+01-04-09,4087,Moncloa
+01-07-09,4076,Moncloa
+01-10-09,4063,Moncloa
+01-01-10,4014,Moncloa
+01-04-10,3987,Moncloa
+01-07-10,3932,Moncloa
+01-10-10,3893,Moncloa
+01-01-11,3841,Moncloa
+01-04-11,3811,Moncloa
+01-07-11,3763,Moncloa
+01-10-11,3679,Moncloa
+01-01-12,3602,Moncloa
+01-04-12,3498,Moncloa
+01-07-12,3440,Moncloa
+01-10-12,3295,Moncloa
+01-01-13,3218,Moncloa
+01-04-13,3147,Moncloa
+01-07-13,3324,Moncloa
+01-10-13,3334,Moncloa
+01-01-14,3312,Moncloa
+01-04-14,3257,Moncloa
+01-07-14,3204,Moncloa
+01-10-14,3157,Moncloa
+01-01-15,3206,Moncloa
+01-04-15,3232,Moncloa
+01-07-15,3219,Moncloa
+01-10-15,3247,Moncloa
+01-01-16,3291,Moncloa
+01-04-16,3349,Moncloa
+01-07-16,3310,Moncloa
+01-10-16,3401,Moncloa
+01-01-17,3519,Moncloa
+01-04-17,3637,Moncloa
+01-07-17,3877,Moncloa
+01-10-17,3915,Moncloa
+01-01-18,4101,Moncloa
+01-04-18,4133,Moncloa
+01-07-18,4143,Moncloa
+01-01-01,1673,Moratalaz
+01-04-01,1716,Moratalaz
+01-07-01,1742,Moratalaz
+01-10-01,1826,Moratalaz
+01-01-02,1921,Moratalaz
+01-04-02,1991,Moratalaz
+01-07-02,2061,Moratalaz
+01-10-02,2315,Moratalaz
+01-01-03,2494,Moratalaz
+01-04-03,2531,Moratalaz
+01-07-03,2535,Moratalaz
+01-10-03,2673,Moratalaz
+01-01-04,2747,Moratalaz
+01-04-04,2798,Moratalaz
+01-07-04,2917,Moratalaz
+01-10-04,2931,Moratalaz
+01-01-05,2930,Moratalaz
+01-04-05,2994,Moratalaz
+01-07-05,3045,Moratalaz
+01-10-05,3108,Moratalaz
+01-01-06,3243,Moratalaz
+01-04-06,3324,Moratalaz
+01-07-06,3333,Moratalaz
+01-10-06,3391,Moratalaz
+01-01-07,3353,Moratalaz
+01-04-07,3375,Moratalaz
+01-07-07,3327,Moratalaz
+01-10-07,3234,Moratalaz
+01-01-08,3225,Moratalaz
+01-04-08,3142,Moratalaz
+01-07-08,3019,Moratalaz
+01-10-08,2892,Moratalaz
+01-01-09,2835,Moratalaz
+01-04-09,2757,Moratalaz
+01-07-09,2717,Moratalaz
+01-10-09,2691,Moratalaz
+01-01-10,2637,Moratalaz
+01-04-10,2617,Moratalaz
+01-07-10,2608,Moratalaz
+01-10-10,2574,Moratalaz
+01-01-11,2488,Moratalaz
+01-04-11,2451,Moratalaz
+01-07-11,2388,Moratalaz
+01-10-11,2297,Moratalaz
+01-01-12,2248,Moratalaz
+01-04-12,2178,Moratalaz
+01-07-12,2098,Moratalaz
+01-10-12,2013,Moratalaz
+01-01-13,1943,Moratalaz
+01-04-13,1940,Moratalaz
+01-07-13,1999,Moratalaz
+01-10-13,2038,Moratalaz
+01-01-14,2079,Moratalaz
+01-04-14,1968,Moratalaz
+01-07-14,1929,Moratalaz
+01-10-14,1952,Moratalaz
+01-01-15,1968,Moratalaz
+01-04-15,1912,Moratalaz
+01-07-15,2004,Moratalaz
+01-10-15,1927,Moratalaz
+01-01-16,1973,Moratalaz
+01-04-16,1973,Moratalaz
+01-07-16,2019,Moratalaz
+01-10-16,2039,Moratalaz
+01-01-17,2054,Moratalaz
+01-04-17,2154,Moratalaz
+01-07-17,2197,Moratalaz
+01-10-17,2269,Moratalaz
+01-01-18,2348,Moratalaz
+01-04-18,2484,Moratalaz
+01-07-18,2545,Moratalaz
+01-01-01,1344,Puente De Vallecas
+01-04-01,1423,Puente De Vallecas
+01-07-01,1475,Puente De Vallecas
+01-10-01,1531,Puente De Vallecas
+01-01-02,1599,Puente De Vallecas
+01-04-02,1698,Puente De Vallecas
+01-07-02,1734,Puente De Vallecas
+01-10-02,1981,Puente De Vallecas
+01-01-03,2048,Puente De Vallecas
+01-04-03,2198,Puente De Vallecas
+01-07-03,2299,Puente De Vallecas
+01-10-03,2430,Puente De Vallecas
+01-01-04,2492,Puente De Vallecas
+01-04-04,2532,Puente De Vallecas
+01-07-04,2625,Puente De Vallecas
+01-10-04,2618,Puente De Vallecas
+01-01-05,2663,Puente De Vallecas
+01-04-05,2736,Puente De Vallecas
+01-07-05,2842,Puente De Vallecas
+01-10-05,2981,Puente De Vallecas
+01-01-06,3019,Puente De Vallecas
+01-04-06,3092,Puente De Vallecas
+01-07-06,3109,Puente De Vallecas
+01-10-06,3138,Puente De Vallecas
+01-01-07,3138,Puente De Vallecas
+01-04-07,3089,Puente De Vallecas
+01-07-07,3040,Puente De Vallecas
+01-10-07,3031,Puente De Vallecas
+01-01-08,2991,Puente De Vallecas
+01-04-08,2841,Puente De Vallecas
+01-07-08,2737,Puente De Vallecas
+01-10-08,2611,Puente De Vallecas
+01-01-09,2493,Puente De Vallecas
+01-04-09,2442,Puente De Vallecas
+01-07-09,2390,Puente De Vallecas
+01-10-09,2355,Puente De Vallecas
+01-01-10,2293,Puente De Vallecas
+01-04-10,2237,Puente De Vallecas
+01-07-10,2216,Puente De Vallecas
+01-10-10,2155,Puente De Vallecas
+01-01-11,2100,Puente De Vallecas
+01-04-11,2008,Puente De Vallecas
+01-07-11,1960,Puente De Vallecas
+01-10-11,1812,Puente De Vallecas
+01-01-12,1758,Puente De Vallecas
+01-04-12,1712,Puente De Vallecas
+01-07-12,1622,Puente De Vallecas
+01-10-12,1570,Puente De Vallecas
+01-01-13,1538,Puente De Vallecas
+01-04-13,1493,Puente De Vallecas
+01-07-13,1627,Puente De Vallecas
+01-10-13,1618,Puente De Vallecas
+01-01-14,1608,Puente De Vallecas
+01-04-14,1487,Puente De Vallecas
+01-07-14,1456,Puente De Vallecas
+01-10-14,1396,Puente De Vallecas
+01-01-15,1422,Puente De Vallecas
+01-04-15,1365,Puente De Vallecas
+01-07-15,1399,Puente De Vallecas
+01-10-15,1366,Puente De Vallecas
+01-01-16,1378,Puente De Vallecas
+01-04-16,1374,Puente De Vallecas
+01-07-16,1400,Puente De Vallecas
+01-10-16,1394,Puente De Vallecas
+01-01-17,1409,Puente De Vallecas
+01-04-17,1483,Puente De Vallecas
+01-07-17,1518,Puente De Vallecas
+01-10-17,1583,Puente De Vallecas
+01-01-18,1695,Puente De Vallecas
+01-04-18,1733,Puente De Vallecas
+01-07-18,1801,Puente De Vallecas
+01-01-01,1666,San Blas
+01-04-01,1744,San Blas
+01-07-01,1806,San Blas
+01-10-01,1852,San Blas
+01-01-02,1909,San Blas
+01-04-02,1950,San Blas
+01-07-02,2227,San Blas
+01-10-02,2346,San Blas
+01-01-03,2554,San Blas
+01-04-03,2581,San Blas
+01-07-03,2651,San Blas
+01-10-03,2749,San Blas
+01-01-04,2898,San Blas
+01-04-04,2969,San Blas
+01-07-04,2971,San Blas
+01-10-04,3015,San Blas
+01-01-05,3124,San Blas
+01-04-05,3177,San Blas
+01-07-05,3267,San Blas
+01-10-05,3354,San Blas
+01-01-06,3370,San Blas
+01-04-06,3414,San Blas
+01-07-06,3366,San Blas
+01-10-06,3447,San Blas
+01-01-07,3451,San Blas
+01-04-07,3454,San Blas
+01-07-07,3392,San Blas
+01-10-07,3350,San Blas
+01-01-08,3337,San Blas
+01-04-08,3205,San Blas
+01-07-08,3142,San Blas
+01-10-08,3098,San Blas
+01-01-09,2988,San Blas
+01-04-09,2932,San Blas
+01-07-09,2928,San Blas
+01-10-09,2886,San Blas
+01-01-10,2847,San Blas
+01-04-10,2764,San Blas
+01-07-10,2768,San Blas
+01-10-10,2746,San Blas
+01-01-11,2683,San Blas
+01-04-11,2624,San Blas
+01-07-11,2609,San Blas
+01-10-11,2530,San Blas
+01-01-12,2478,San Blas
+01-04-12,2372,San Blas
+01-07-12,2294,San Blas
+01-10-12,2176,San Blas
+01-01-13,2112,San Blas
+01-04-13,2089,San Blas
+01-07-13,2259,San Blas
+01-10-13,2206,San Blas
+01-01-14,2152,San Blas
+01-04-14,2032,San Blas
+01-07-14,2015,San Blas
+01-10-14,1983,San Blas
+01-01-15,2039,San Blas
+01-04-15,2084,San Blas
+01-07-15,2032,San Blas
+01-10-15,2000,San Blas
+01-01-16,2010,San Blas
+01-04-16,2095,San Blas
+01-07-16,2128,San Blas
+01-10-16,2138,San Blas
+01-01-17,2175,San Blas
+01-04-17,2244,San Blas
+01-07-17,2365,San Blas
+01-10-17,2489,San Blas
+01-01-18,2523,San Blas
+01-04-18,2606,San Blas
+01-07-18,2587,San Blas
+01-01-01,2064,Tetuán
+01-04-01,2254,Tetuán
+01-07-01,2287,Tetuán
+01-10-01,2321,Tetuán
+01-01-02,2474,Tetuán
+01-04-02,2484,Tetuán
+01-07-02,2784,Tetuán
+01-10-02,3024,Tetuán
+01-01-03,2970,Tetuán
+01-04-03,3069,Tetuán
+01-07-03,3272,Tetuán
+01-10-03,3310,Tetuán
+01-01-04,3462,Tetuán
+01-04-04,3401,Tetuán
+01-07-04,3459,Tetuán
+01-10-04,3583,Tetuán
+01-01-05,3662,Tetuán
+01-04-05,3674,Tetuán
+01-07-05,3748,Tetuán
+01-10-05,3765,Tetuán
+01-01-06,3900,Tetuán
+01-04-06,3964,Tetuán
+01-07-06,3955,Tetuán
+01-10-06,3954,Tetuán
+01-01-07,3961,Tetuán
+01-04-07,3922,Tetuán
+01-07-07,3920,Tetuán
+01-10-07,3936,Tetuán
+01-01-08,3901,Tetuán
+01-04-08,3807,Tetuán
+01-07-08,3740,Tetuán
+01-10-08,3657,Tetuán
+01-01-09,3559,Tetuán
+01-04-09,3525,Tetuán
+01-07-09,3479,Tetuán
+01-10-09,3454,Tetuán
+01-01-10,3447,Tetuán
+01-04-10,3420,Tetuán
+01-07-10,3423,Tetuán
+01-10-10,3369,Tetuán
+01-01-11,3291,Tetuán
+01-04-11,3254,Tetuán
+01-07-11,3201,Tetuán
+01-10-11,3104,Tetuán
+01-01-12,2996,Tetuán
+01-04-12,2920,Tetuán
+01-07-12,2819,Tetuán
+01-10-12,2724,Tetuán
+01-07-13,2730,Tetuán
+01-10-13,2643,Tetuán
+01-01-14,2701,Tetuán
+01-04-14,2602,Tetuán
+01-07-14,2567,Tetuán
+01-10-14,2545,Tetuán
+01-01-15,2579,Tetuán
+01-04-15,2619,Tetuán
+01-07-15,2661,Tetuán
+01-10-15,2634,Tetuán
+01-01-16,2656,Tetuán
+01-04-16,2714,Tetuán
+01-07-16,2753,Tetuán
+01-10-16,2811,Tetuán
+01-01-17,2889,Tetuán
+01-04-17,3022,Tetuán
+01-07-17,3073,Tetuán
+01-10-17,3151,Tetuán
+01-01-18,3411,Tetuán
+01-04-18,3558,Tetuán
+01-07-18,3649,Tetuán
+01-01-01,1292,Usera
+01-04-01,1331,Usera
+01-07-01,1410,Usera
+01-10-01,1533,Usera
+01-01-02,1555,Usera
+01-04-02,1732,Usera
+01-07-02,1897,Usera
+01-10-02,2032,Usera
+01-01-03,2112,Usera
+01-04-03,2197,Usera
+01-07-03,2381,Usera
+01-10-03,2424,Usera
+01-01-04,2521,Usera
+01-04-04,2545,Usera
+01-07-04,2613,Usera
+01-10-04,2577,Usera
+01-01-05,2689,Usera
+01-04-05,2747,Usera
+01-07-05,2793,Usera
+01-10-05,2903,Usera
+01-01-06,2982,Usera
+01-04-06,3001,Usera
+01-07-06,3076,Usera
+01-10-06,3096,Usera
+01-01-07,3031,Usera
+01-04-07,3021,Usera
+01-07-07,3020,Usera
+01-10-07,2995,Usera
+01-01-08,2960,Usera
+01-04-08,2858,Usera
+01-07-08,2786,Usera
+01-10-08,2659,Usera
+01-01-09,2585,Usera
+01-04-09,2510,Usera
+01-07-09,2469,Usera
+01-10-09,2399,Usera
+01-01-10,2363,Usera
+01-04-10,2299,Usera
+01-07-10,2275,Usera
+01-10-10,2245,Usera
+01-01-11,2167,Usera
+01-04-11,2122,Usera
+01-07-11,2020,Usera
+01-10-11,1942,Usera
+01-01-12,1877,Usera
+01-04-12,1807,Usera
+01-07-12,1739,Usera
+01-10-12,1689,Usera
+01-01-13,1656,Usera
+01-04-13,1590,Usera
+01-07-13,1745,Usera
+01-10-13,1678,Usera
+01-01-14,1647,Usera
+01-04-14,1500,Usera
+01-07-14,1475,Usera
+01-10-14,1470,Usera
+01-01-15,1531,Usera
+01-04-15,1486,Usera
+01-07-15,1538,Usera
+01-10-15,1494,Usera
+01-01-16,1501,Usera
+01-04-16,1488,Usera
+01-07-16,1483,Usera
+01-10-16,1503,Usera
+01-01-17,1509,Usera
+01-04-17,1595,Usera
+01-07-17,1658,Usera
+01-10-17,1710,Usera
+01-01-18,1758,Usera
+01-04-18,1893,Usera
+01-07-18,1948,Usera
+01-01-01,1271,Villa De Vallecas
+01-04-01,1451,Villa De Vallecas
+01-07-01,1398,Villa De Vallecas
+01-10-01,1459,Villa De Vallecas
+01-01-02,1535,Villa De Vallecas
+01-04-02,1544,Villa De Vallecas
+01-07-02,1823,Villa De Vallecas
+01-10-02,1863,Villa De Vallecas
+01-01-03,2021,Villa De Vallecas
+01-04-03,2111,Villa De Vallecas
+01-07-03,2250,Villa De Vallecas
+01-10-03,2390,Villa De Vallecas
+01-01-04,2357,Villa De Vallecas
+01-04-04,2376,Villa De Vallecas
+01-07-04,2438,Villa De Vallecas
+01-10-04,2530,Villa De Vallecas
+01-01-05,2598,Villa De Vallecas
+01-04-05,2663,Villa De Vallecas
+01-07-05,2737,Villa De Vallecas
+01-10-05,2880,Villa De Vallecas
+01-01-06,2998,Villa De Vallecas
+01-04-06,3046,Villa De Vallecas
+01-07-06,3113,Villa De Vallecas
+01-10-06,3158,Villa De Vallecas
+01-01-07,3176,Villa De Vallecas
+01-04-07,3091,Villa De Vallecas
+01-07-07,3141,Villa De Vallecas
+01-10-07,3084,Villa De Vallecas
+01-01-08,3063,Villa De Vallecas
+01-04-08,2926,Villa De Vallecas
+01-07-08,2830,Villa De Vallecas
+01-10-08,2780,Villa De Vallecas
+01-01-09,2684,Villa De Vallecas
+01-04-09,2646,Villa De Vallecas
+01-07-09,2617,Villa De Vallecas
+01-10-09,2579,Villa De Vallecas
+01-01-10,2555,Villa De Vallecas
+01-04-10,2463,Villa De Vallecas
+01-07-10,2502,Villa De Vallecas
+01-10-10,2480,Villa De Vallecas
+01-01-11,2472,Villa De Vallecas
+01-04-11,2430,Villa De Vallecas
+01-07-11,2395,Villa De Vallecas
+01-10-11,2336,Villa De Vallecas
+01-01-12,2267,Villa De Vallecas
+01-04-12,2183,Villa De Vallecas
+01-07-12,2163,Villa De Vallecas
+01-10-12,2083,Villa De Vallecas
+01-01-13,2078,Villa De Vallecas
+01-04-13,2012,Villa De Vallecas
+01-07-13,2286,Villa De Vallecas
+01-10-13,2168,Villa De Vallecas
+01-01-14,2183,Villa De Vallecas
+01-04-14,2010,Villa De Vallecas
+01-07-14,1988,Villa De Vallecas
+01-10-14,1914,Villa De Vallecas
+01-01-15,1945,Villa De Vallecas
+01-04-15,1936,Villa De Vallecas
+01-07-15,1978,Villa De Vallecas
+01-10-15,1903,Villa De Vallecas
+01-01-16,1925,Villa De Vallecas
+01-04-16,1902,Villa De Vallecas
+01-07-16,1973,Villa De Vallecas
+01-10-16,1974,Villa De Vallecas
+01-01-17,1970,Villa De Vallecas
+01-04-17,2028,Villa De Vallecas
+01-07-17,2121,Villa De Vallecas
+01-10-17,2147,Villa De Vallecas
+01-01-18,2255,Villa De Vallecas
+01-04-18,2294,Villa De Vallecas
+01-07-18,2341,Villa De Vallecas
+01-01-01,1111,Villaverde
+01-04-01,1180,Villaverde
+01-07-01,1279,Villaverde
+01-10-01,1343,Villaverde
+01-01-02,1340,Villaverde
+01-04-02,1436,Villaverde
+01-07-02,1693,Villaverde
+01-10-02,1737,Villaverde
+01-01-03,1802,Villaverde
+01-04-03,1889,Villaverde
+01-07-03,1930,Villaverde
+01-10-03,2133,Villaverde
+01-01-04,2281,Villaverde
+01-04-04,2398,Villaverde
+01-07-04,2411,Villaverde
+01-10-04,2528,Villaverde
+01-01-05,2535,Villaverde
+01-04-05,2532,Villaverde
+01-07-05,2576,Villaverde
+01-10-05,2657,Villaverde
+01-01-06,2673,Villaverde
+01-04-06,2764,Villaverde
+01-07-06,2803,Villaverde
+01-10-06,2867,Villaverde
+01-01-07,2832,Villaverde
+01-04-07,2830,Villaverde
+01-07-07,2840,Villaverde
+01-10-07,2804,Villaverde
+01-01-08,2768,Villaverde
+01-04-08,2611,Villaverde
+01-07-08,2503,Villaverde
+01-10-08,2433,Villaverde
+01-01-09,2344,Villaverde
+01-04-09,2312,Villaverde
+01-07-09,2289,Villaverde
+01-10-09,2270,Villaverde
+01-01-10,2203,Villaverde
+01-04-10,2143,Villaverde
+01-07-10,2113,Villaverde
+01-10-10,2042,Villaverde
+01-01-11,1942,Villaverde
+01-04-11,1909,Villaverde
+01-07-11,1863,Villaverde
+01-10-11,1753,Villaverde
+01-01-12,1667,Villaverde
+01-04-12,1593,Villaverde
+01-07-12,1520,Villaverde
+01-10-12,1492,Villaverde
+01-01-13,1441,Villaverde
+01-04-13,1391,Villaverde
+01-07-13,1475,Villaverde
+01-10-13,1408,Villaverde
+01-01-14,1299,Villaverde
+01-04-14,1235,Villaverde
+01-07-14,1218,Villaverde
+01-10-14,1239,Villaverde
+01-01-15,1298,Villaverde
+01-04-15,1310,Villaverde
+01-07-15,1289,Villaverde
+01-10-15,1245,Villaverde
+01-01-16,1308,Villaverde
+01-04-16,1285,Villaverde
+01-07-16,1348,Villaverde
+01-10-16,1382,Villaverde
+01-01-17,1397,Villaverde
+01-04-17,1406,Villaverde
+01-07-17,1446,Villaverde
+01-10-17,1440,Villaverde
+01-01-18,1523,Villaverde
+01-04-18,1578,Villaverde
+01-07-18,1615,Villaverde
